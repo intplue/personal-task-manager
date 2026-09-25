@@ -5,8 +5,8 @@ A simple Laravel-based web application for creating, organizing, and tracking pe
 ## Project Information
 
 * **Project Code:** WST21-PM-2026-SF
-* **Student Name:** [Your Name]
-* **Course & Year:** [Your Course & Year]
+* **Student Name:** INDAYO, NOELAH CLAIRE M.
+* **Course & Year:** BSIT-2
 * **Database Used:** SQLite
 
 ## Project Description
