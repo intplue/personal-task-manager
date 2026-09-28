@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="1000010113" src="https://github.com/user-attachments/assets/2824c1e2-16d2-47f9-a5ea-adf61189a154" />
+<img width="1920" height="1080" alt="1000010112" src="https://github.com/user-attachments/assets/64ddc98c-fa84-44a9-b031-cbdd5116a185" />
+<img width="1920" height="1080" alt="1000010111" src="https://github.com/user-attachments/assets/c8285040-e8a2-40d7-a49e-9e067ea184b2" />
+<img width="1920" height="1080" alt="1000010110" src="https://github.com/user-attachments/assets/a337bb3c-8759-49a2-89ba-df40d741aef1" />
 # Personal Task Manager
 
 A simple Laravel-based web application for creating, organizing, and tracking personal tasks.
